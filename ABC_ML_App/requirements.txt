@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+python-dotenv
+pandas
+scikit-learn
+faiss-cpu
+streamlit
+gunicorn
